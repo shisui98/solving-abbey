@@ -1,3 +1,4 @@
+# Minimum of three, python 3.9.2
 N = input();
 for x in range(int(N)):
     a, b, c = input().split()
